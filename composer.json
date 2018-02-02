@@ -3,6 +3,7 @@
     "description": "laravist demo",
     "type": "php",
     "license": "MIT",
+    "homepage": "https://github.com/xuedhh/laravist",
     "authors": [
         {
             "name": "dhh",
