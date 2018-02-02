@@ -1,0 +1,14 @@
+{
+    "name": "xuedhh/laravist",
+    "description": "laravist demo",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dhh",
+            "email": "318149908@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
