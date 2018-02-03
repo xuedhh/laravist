@@ -12,9 +12,8 @@
         }
     ],
     "autoload": {
-        "files":["Core/Config.php"],
         "psr-4": {
-            "Check\\": "src/"
+            "Check\\": "lib/"
         }
     },
     "require": {
